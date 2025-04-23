@@ -15,7 +15,7 @@ Universidad Nacional de Colombia
 
 ### Implementación
 
-En esta parte se desarrolló una animación 2D (triangulo), aplicando transformaciones geométricas con matrices:
+En esta parte se desarrolló una animación 2D (triángulo), aplicando transformaciones geométricas con matrices:
 
 - Se usó **`numpy`** para definir los puntos base y construir las matrices de transformación.
 - Se aplicaron secuencialmente:
@@ -28,7 +28,7 @@ En esta parte se desarrolló una animación 2D (triangulo), aplicando transforma
 - `python/Punto_1_Taller_0_Computación_visual.ipynb`
 
 ### 🎥 Resultado:
-- ![GIF animado de la transformación](python\animacion_transformaciones.gif)
+- ![GIF animado de la transformación](python/animacion_transformaciones.gif)
 
 ---
 
@@ -47,7 +47,8 @@ En esta parte se desarrolló una animación 2D (triangulo), aplicando transforma
 - `unity/TransformacionesCubo.cs`
 
 ### 📷 Captura:
-- ![Cubo unity](unity\captura_unity.png)
+- ![Cubo unity](unity/captura_unity.png)
+
 ---
 
 ## 3. Three.js con React Three Fiber
@@ -65,7 +66,7 @@ En esta parte se desarrolló una animación 2D (triangulo), aplicando transforma
 - `threejs/transformaciones-threejs/`
 
 ### 🎥 Resultado:
-- ![Cubo animado](threejs\cubo_react.gif)
+- ![Cubo animado](threejs/cubo_react.gif)
 
 ---
 
@@ -84,8 +85,9 @@ En esta parte se desarrolló una animación 2D (triangulo), aplicando transforma
 - `processing/transformaciones_processing.pde`
 
 ### 📷 Captura:
-- ![Cubo Processing](processing\cubo.gif)
+- ![Cubo Processing](processing/cubo.gif)
 
+---
 
 ## Instrucciones generales
 
