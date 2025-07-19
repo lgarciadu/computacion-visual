@@ -41,7 +41,7 @@ python procesamiento.py
 
 Se mostrarán cuatro visualizaciones:
 
-![Imagen con los resultados](Ejercicio_1_procesamiento/resultados.png)
+![Imagen con los resultados](./resultados.png)
 
 
 1. Imagen original
