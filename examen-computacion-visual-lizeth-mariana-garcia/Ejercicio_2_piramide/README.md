@@ -58,7 +58,7 @@ npm run dev
 
 Se obtiene una **pirámide de ladrillos en 3D**, con texturas físicas realistas, buena iluminación y una cámara que se puede mover libremente.
 
-![Visualización de ejemplo](Ejercicio_2_piramide/piramide.jpeg)
+![Visualización de ejemplo](./piramide.jpeg)
 
 > *Captura de la pirámide renderizada. Puedes agregar tu imagen en `docs/preview.png`.*
 
